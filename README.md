@@ -72,13 +72,13 @@ The goal is simple:
 ## 🛠 Tech Stack
 
 - Language: Python 🐍  
-- Practice Platforms: LeetCode / HackerRank  
+ 
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306 
+- 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306  
 
 ---
 
