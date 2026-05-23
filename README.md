@@ -73,6 +73,15 @@ The goal is simple:
 
 ---
 
+## ⭐ Support
+
+If you find this repository useful:
+- ⭐ Star this repo  
+- 🔁 Follow my journey  
+
+---
+
+
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306 
