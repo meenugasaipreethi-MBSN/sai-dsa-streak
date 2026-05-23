@@ -27,6 +27,7 @@ The goal is simple:
 |-----|------|---------|--------|
 | Day 1 | Array Traversal | Linear & Reverse Traversal | ✅ Completed |
 | Day 2 | Array Insertion | Beginning, End, Position | ✅ Completed |
+| Day 3 | Array Deletion | Beginning, End, Position | ✅ Completed |
 
 ---
 
@@ -35,12 +36,8 @@ The goal is simple:
 ### 🔹 Arrays
 - Basics  
 - Traversal  
-  - Linear Traversal  
-  - Reverse Traversal  
 - Insertion  
-  - Beginning  
-  - End  
-  - Specific Position  
+- Deletion  
 
 ---
 
@@ -49,7 +46,7 @@ The goal is simple:
 - Writing clean and efficient code  
 - Understanding core concepts deeply  
 - Avoiding common mistakes in loops and indexing  
-- Improving logic building step by step  
+- Improving logic step by step  
 
 ---
 
@@ -57,14 +54,14 @@ The goal is simple:
 
 - 🚀 Master Data Structures and Algorithms  
 - 💼 Crack product-based company interviews  
-- 📈 Become consistent with daily coding  
-- 🧩 Solve 100+ quality problems  
+- 📈 Stay consistent with daily coding  
+- 🧩 Solve 100+ problems  
 
 ---
 
 ## 📈 Streak Status
 
-🔥 Current Streak: 2 Days  
+🔥 Current Streak: 3 Days  
 🎯 Target: 100 Days  
 
 ---
@@ -78,15 +75,7 @@ The goal is simple:
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306  
-
----
-
-## ⭐ Support
-
-If you find this repository useful:
-- ⭐ Star this repo  
-- 🔁 Follow my journey  
+- 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306 
 
 ---
 
