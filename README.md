@@ -28,6 +28,7 @@ The goal is simple:
 | Day 1 | Array Traversal | Linear & Reverse Traversal | ✅ Completed |
 | Day 2 | Array Insertion | Beginning, End, Position | ✅ Completed |
 | Day 3 | Array Deletion | Beginning, End, Position | ✅ Completed |
+| Day 4 | Find Maximum Element | Tracking & Comparison Logic | ✅ Completed |
 
 ---
 
@@ -38,6 +39,7 @@ The goal is simple:
 - Traversal  
 - Insertion  
 - Deletion  
+- Maximum Element  
 
 ---
 
@@ -61,7 +63,7 @@ The goal is simple:
 
 ## 📈 Streak Status
 
-🔥 Current Streak: 3 Days  
+🔥 Current Streak: 4 Days  
 🎯 Target: 100 Days  
 
 ---
@@ -69,7 +71,6 @@ The goal is simple:
 ## 🛠 Tech Stack
 
 - Language: Python 🐍  
- 
 
 ---
 
@@ -81,10 +82,9 @@ If you find this repository useful:
 
 ---
 
-
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/meenuga-sai-preethi-111bb5306 
+- 💼 LinkedIn: https://www.linkedin.com/in/meenuga-sai-preethi-111bb5306
 
 ---
 
