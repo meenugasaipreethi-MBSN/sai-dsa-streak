@@ -29,7 +29,7 @@ The goal is simple:
 | Day 2 | Array Insertion | Beginning, End, Position | ✅ Completed |
 | Day 3 | Array Deletion | Beginning, End, Position | ✅ Completed |
 | Day 4 | Find Maximum Element | Tracking & Comparison Logic | ✅ Completed |
-
+| Day 5 | Stock Problem + Max Difference | Greedy + Tracking Minimum | ✅ Completed |
 ---
 
 ## 🧠 Topics Covered
@@ -41,13 +41,16 @@ The goal is simple:
 - Deletion  
 - Maximum Element  
 
+### 🔹 Problem Solving Patterns
+- Greedy  
+- Tracking Minimum / Maximum  
 ---
 
 ## ⚡ What I'm Focusing On
 
 - Writing clean and efficient code  
 - Understanding core concepts deeply  
-- Avoiding common mistakes in loops and indexing  
+- Learning problem-solving patterns
 - Improving logic step by step  
 
 ---
@@ -63,7 +66,7 @@ The goal is simple:
 
 ## 📈 Streak Status
 
-🔥 Current Streak: 4 Days  
+🔥 Current Streak: 5 Days  
 🎯 Target: 100 Days  
 
 ---
