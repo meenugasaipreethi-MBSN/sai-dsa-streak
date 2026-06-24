@@ -31,6 +31,7 @@ The goal is simple:
 | Day 4 | Find Maximum Element | Tracking & Comparison Logic | ✅ Completed |
 | Day 5 | Stock Problem + Max Difference | Greedy + Tracking Minimum | ✅ Completed |
 | Day 6 | Move Zeroes + Remove Duplicates | Two Pointer + In-place | ✅ Completed |
+| Day 7 | Second Largest Element | Tracking Top 2 Values | ✅ Completed |
 ---
 
 ## 🧠 Topics Covered
@@ -46,6 +47,7 @@ The goal is simple:
 - Greedy  
 - Tracking Minimum / Maximum  
 - Two Pointer Technique  
+- Tracking Multiple Variables 
 ---
 
 ## ⚡ What I'm Focusing On
@@ -68,7 +70,7 @@ The goal is simple:
 
 ## 📈 Streak Status
 
-🔥 Current Streak:6 Days
+🔥 Current Streak:7 Days
 🎯 Target: 100 Days  
 
 ---
