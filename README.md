@@ -30,6 +30,7 @@ The goal is simple:
 | Day 3 | Array Deletion | Beginning, End, Position | ✅ Completed |
 | Day 4 | Find Maximum Element | Tracking & Comparison Logic | ✅ Completed |
 | Day 5 | Stock Problem + Max Difference | Greedy + Tracking Minimum | ✅ Completed |
+| Day 6 | Move Zeroes + Remove Duplicates | Two Pointer + In-place | ✅ Completed |
 ---
 
 ## 🧠 Topics Covered
@@ -44,6 +45,7 @@ The goal is simple:
 ### 🔹 Problem Solving Patterns
 - Greedy  
 - Tracking Minimum / Maximum  
+- Two Pointer Technique  
 ---
 
 ## ⚡ What I'm Focusing On
@@ -66,7 +68,7 @@ The goal is simple:
 
 ## 📈 Streak Status
 
-🔥 Current Streak: 5 Days  
+🔥 Current Streak:6 Days
 🎯 Target: 100 Days  
 
 ---
