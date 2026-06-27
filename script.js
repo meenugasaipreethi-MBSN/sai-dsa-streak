@@ -1,1 +1,0 @@
-document.querySelectorAll('.card').forEach(c=>c.onclick=()=>c.style.outline='2px solid #60a5fa');
